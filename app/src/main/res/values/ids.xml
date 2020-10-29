@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_username" type="id">et_username</item>
+    <item name="et_password" type="id">et_password</item>
+    <item name="bt_entrar" type="id">bt_entrar</item>
+</resources>
